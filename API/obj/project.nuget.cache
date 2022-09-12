@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3V1zFN/dpiv5Ka7/r/KBhFq3P0DGW2hRvSbQPJvogbIZ95XYV3UJE+iYpsYEPn6WGdtBBbV1/gacWp46dFNURg==",
+  "dgSpecHash": "vFWnekjVTTXunu4U0eN4oNDsgPq+a8NA2ggJUJAaK1Lum4MzfMV8pLLOHQGBapZH1A3LqVGkVxdV4TA5Bgh2ag==",
   "success": true,
   "projectFilePath": "/home/antonio/Workspaces/DotNetCore-Angular-App/skinet/API/API.csproj",
   "expectedPackageFiles": [

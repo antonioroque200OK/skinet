@@ -1,0 +1,12 @@
+/home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Core/bin/Debug/net6.0/Core.deps.json
+/home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Core/bin/Debug/net6.0/Core.dll
+/home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Core/bin/Debug/net6.0/ref/Core.dll
+/home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Core/bin/Debug/net6.0/Core.pdb
+/home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Core/obj/Debug/net6.0/Core.csproj.AssemblyReference.cache
+/home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Core/obj/Debug/net6.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Core/obj/Debug/net6.0/Core.AssemblyInfoInputs.cache
+/home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Core/obj/Debug/net6.0/Core.AssemblyInfo.cs
+/home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Core/obj/Debug/net6.0/Core.csproj.CoreCompileInputs.cache
+/home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Core/obj/Debug/net6.0/Core.dll
+/home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Core/obj/Debug/net6.0/ref/Core.dll
+/home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Core/obj/Debug/net6.0/Core.pdb
