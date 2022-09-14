@@ -13,3 +13,5 @@
 /home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.dll
 /home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Infrastructure/obj/Debug/net6.0/ref/Infrastructure.dll
 /home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.pdb
+/home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Infrastructure/bin/Debug/net6.0/Infrastructure.runtimeconfig.json
+/home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.genruntimeconfig.cache

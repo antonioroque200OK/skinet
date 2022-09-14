@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Rh0wUh70CwEvViF1Bb8bauI4cfSCYDAEZ5Ng1nZaTMBYPG9KBfMZXCXVQv0Gzn+ZCj+f5ixDA0V9eoD2RCByLA==",
+  "dgSpecHash": "sNKES/UMv1MqfQAbumESfAj63T7QdvGNQgzWX9GBdBJAhjrtooDcetvo1AKFJSF87VXLg16Sz40/8uWC8m51bg==",
   "success": true,
   "projectFilePath": "/home/antonio/Workspaces/DotNetCore-Angular-App/skinet/Infrastructure/Infrastructure.csproj",
   "expectedPackageFiles": [
+    "/home/antonio/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/antonio/.nuget/packages/microsoft.data.sqlite.core/6.0.8/microsoft.data.sqlite.core.6.0.8.nupkg.sha512",
     "/home/antonio/.nuget/packages/microsoft.entityframeworkcore/6.0.8/microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
     "/home/antonio/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.8/microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512",
     "/home/antonio/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.8/microsoft.entityframeworkcore.analyzers.6.0.8.nupkg.sha512",
+    "/home/antonio/.nuget/packages/microsoft.entityframeworkcore.design/6.0.8/microsoft.entityframeworkcore.design.6.0.8.nupkg.sha512",
     "/home/antonio/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.8/microsoft.entityframeworkcore.relational.6.0.8.nupkg.sha512",
     "/home/antonio/.nuget/packages/microsoft.entityframeworkcore.sqlite/6.0.8/microsoft.entityframeworkcore.sqlite.6.0.8.nupkg.sha512",
     "/home/antonio/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/6.0.8/microsoft.entityframeworkcore.sqlite.core.6.0.8.nupkg.sha512",
